@@ -2,7 +2,7 @@
 
 This Python script processes a block of text by applying different transformations to each half of the input. It's a demonstration of string manipulation and basic text normalization.
 
-## 📌 Features
+## Features
 
 - Splits input text into two equal parts
 - First half:
@@ -14,7 +14,7 @@ This Python script processes a block of text by applying different transformatio
   - Punctuation removed
 - Final result: the two transformed halves are concatenated
 
-## 🧪 Example
+## Example
 
 Given this text:
 
